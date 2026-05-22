@@ -1,8 +1,5 @@
 # Päeva Hääletus
 
-<img width="592" height="565" alt="image" src="https://github.com/user-attachments/assets/229460f0-2f88-46ec-9b10-9c77051b8395" />
-<img width="546" height="525" alt="image" src="https://github.com/user-attachments/assets/902f0ff3-d95c-4b54-a3b5-7c05cabbec99" />
-
 
 Minimalistlik dark-mode veebirakendus, mis küsib kasutajalt ühe lihtsa küsimuse:
 
@@ -22,11 +19,11 @@ Projekt sisaldab sessioonipõhist hääletamist, anonüümset tagasisidet ning m
 
 ## Positiivne vastus
 
-![Positive State](./preview-up.png)
+<img width="592" height="565" alt="image" src="https://github.com/user-attachments/assets/229460f0-2f88-46ec-9b10-9c77051b8395" />
 
 ## Negatiivne vastus
 
-![Negative State](./preview-down.png)
+<img width="546" height="525" alt="image" src="https://github.com/user-attachments/assets/902f0ff3-d95c-4b54-a3b5-7c05cabbec99" />
 
 ---
 
